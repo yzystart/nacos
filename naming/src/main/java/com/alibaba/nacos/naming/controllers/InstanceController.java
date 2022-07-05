@@ -98,7 +98,7 @@ public class InstanceController {
     }
     
     /**
-     * Register new instance.
+     * Register new instance.  注册一个新实例
      *
      * @param request http request
      * @return 'ok' if success
